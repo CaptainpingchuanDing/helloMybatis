@@ -1,0 +1,42 @@
+
+psquid:S2077X"RUse a variable binding mechanism to construct this query instead of concatenation.(âæÄÑ8Ïäâ¶.
+Gsquid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²úÊ¹.
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+hsquid:S1192,"JDefine a constant instead of duplicating this literal "studentID" 3 times.(¢ìêÊ8²úÊ¹.
+Csquid:S2068T" Remove this hard-coded password.(æÔú¡şÿÿÿÿ8Ïäâ¶.
+Osquid:S1135"2Complete the task associated to this TODO comment.(ÿ´·Q8ö¨‡Õ·.
+Usquid:S1135)"2Complete the task associated to this TODO comment.(ã¼˜şÿÿÿÿ8Í×ıÔ·.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(è¸õ†8Ïäâ¶.
+esquid:S1192-"GDefine a constant instead of duplicating this literal "name: " 3 times.(è¸õ†8²úÊ¹.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûê·üÿÿÿÿ8Ïäâ¶.
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(è¸õ†8Ïäâ¶.
+msquid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»å«8²úÊ¹.
+Dsquid:S2068ƒ" Remove this hard-coded password.(æÔú¡şÿÿÿÿ8²úÊ¹.
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ö‚÷İ8²úÊ¹.
+Usquid:S1135""2Complete the task associated to this TODO comment.(‘²Òéşÿÿÿÿ8î‚Õ·.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(è¸õ†8²úÊ¹.
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²úÊ¹.
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¾ˆµé8Ïäâ¶.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²úÊ¹.
+jsquid:S1192-"LDefine a constant instead of duplicating this literal "studentID: " 3 times.(è¸õ†8²úÊ¹.
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+Fsquid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¾¢ÕÌ8Ïäâ¶.
+jsquid:S1192"GDefine a constant instead of duplicating this literal "------" 3 times.(ûê·üÿÿÿÿ8ôªøÏ¹.
+Fsquid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+Fsquid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+Fsquid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+Usquid:S1135 "2Complete the task associated to this TODO comment.(ıô”üÿÿÿÿ8ïÇô¹.
+Csquid:S2068" Remove this hard-coded password.(æÔú¡şÿÿÿÿ8Ïäâ¶.
+‡squid:S1192"dDefine a constant instead of duplicating this literal "jdbc:mysql://127.0.0.1:3306/mybatis" 3 times.(æÔú¡şÿÿÿÿ8²úÊ¹.
+Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïäâ¶.
+Gsquid:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²úÊ¹.

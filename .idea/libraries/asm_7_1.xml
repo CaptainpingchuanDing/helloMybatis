@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="asm-7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/asm-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/cglib-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/javassist-3.26.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/log4j-api-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/log4j-core-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/ognl-3.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/slf4j-log4j12-1.7.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+
+Rsquid:UnusedPrivateMethod"(Remove this unused private "add" method.(óãŞıÿÿÿÿ
+Usquid:UnusedPrivateMethod0"+Remove this unused private "delete" method.(õìÇˆøÿÿÿÿ
+Psquid:UnusedPrivateMethodB"+Remove this unused private "update" method.(¥åçë
+osquid:S1192"SDefine a constant instead of duplicating this literal "mybatis-config.xml" 4 times.(©È¶®ÿÿÿÿÿ
+csquid:S1192)"GDefine a constant instead of duplicating this literal ",NAME:" 4 times.(Ôº‡ôşÿÿÿÿ
+csquid:S1192$"LDefine a constant instead of duplicating this literal "listStudent" 3 times.(ĞâÚ›
+_squid:S2095Z"HUse try-with-resources or close this "SqlSession" in a "finally" clause.(‘Ü Ğ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ
+T
+squid:S106`"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ
+Fsquid:S1905G"*Remove this unnecessary cast to "Student".(åæÑŠşÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œ„üê

@@ -1,0 +1,24 @@
+
+hsquid:UnusedPrivateMethodˆ"6Remove this unused private "findStudentByName" method.(¼×›ïüÿÿÿÿ8âÁÂ‚·.
+vsquid:S1192"SDefine a constant instead of duplicating this literal "mybatis-config.xml" 6 times.(©È¶®ÿÿÿÿÿ8øá•Ñ¹.
+\
+squid:S106”"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ8³İ¹‚·.
+jsquid:S1192F"LDefine a constant instead of duplicating this literal "listStudent" 4 times.(ĞâÚ›8÷À‚·.
+\
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ8³İ¹‚·.
+\squid:UnusedPrivateMethodQ"+Remove this unused private "delete" method.(õìÇˆøÿÿÿÿ8âÁÂ‚·.
+Wsquid:UnusedPrivateMethodm"+Remove this unused private "update" method.(¥åçë8âÁÂ‚·.
+gsquid:S2095"HUse try-with-resources or close this "SqlSession" in a "finally" clause.(‘Ü Ğ8³İ¹‚·.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ8É·öÓ¹.
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ8ŸœÂ‚·.
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ8³İ¹‚·.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôº‡ôşÿÿÿÿ8³İ¹‚·.
+Usquid:S1135&"2Complete the task associated to this TODO comment.(º§â„úÿÿÿÿ8ùá•Ñ¹.
+Osquid:S1135+"2Complete the task associated to this TODO comment.(×æ…t8ùá•Ñ¹.
+jsquid:S1192H"GDefine a constant instead of duplicating this literal ",NAME:" 5 times.(Ôº‡ôşÿÿÿÿ8÷À‚·.
+ksquid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(ŒÓ„üÿÿÿÿ8‚öÂ‚·.
+Ysquid:UnusedPrivateMethod6"(Remove this unused private "add" method.(óãŞıÿÿÿÿ8Šª¡Ğ¹.
